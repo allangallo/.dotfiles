@@ -1,0 +1,2 @@
+# .dotfiles
+Neovim's configuration
